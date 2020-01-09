@@ -1,9 +1,0 @@
-完整训练-使用方法：
-1.将Defective_Part_Surface_Detecting_190813文件夹放入E:\Work and Learning\tensorflow exercise(vscode)\Code路径下；
-2.在E:\Work and Learning\tensorflow exercise(vscode)\Code\Defective_Part_Surface_Detecting_190813\Train_data\input_data路径下放入包含训练数据和标签的文件夹；
-3.使用Convert_image_data程序转化训练数据；
-4.使用Train程序进行训练；
-5.使用Train_eval程序验证训练效果；
-6.在E:\Work and Learning\tensorflow exercise(vscode)\Code\Defective_Part_Surface_Detecting_190813\Detecting_data\input_data路径下放入包含待检测数据的文件夹；
-7.使用Convert_image_data程序转化待检测数据；
-8.使用Defect_detecting程序判断出含有缺陷的数据编号。
